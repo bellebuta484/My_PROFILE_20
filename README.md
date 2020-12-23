@@ -152,9 +152,12 @@ team goal then generally clear to members, initial questions and concerns are ad
 and initial role assignments may develop.
 
 
+
+
+
 # Project Idea
 
-
+![](images/1*LLaLA4kIA6bkd8Ob0rYxxQ.jpeg)
 
 
 
@@ -170,6 +173,7 @@ the awareness in our community.
 
 This eyewear is made of 100% natural pinewood, recycle material and environment friendly.
 It comes in variety of styles and colors.
+
 
 ## Motivation
 
@@ -188,3 +192,80 @@ trial period. This time being we need to look after ourselves by keeping our
 hands hygiene and eating healthy. Moreover, wearing the genius CV2020 will
 help notifying when you are in a close contact with someone who has fever of 37.4c or
 more. This will minimise the risk of contracting virus.
+
+## Description
+
+Body temperature detecting wooden glasses is to be called CV2020, modified from the
+traditional hand-held thermometer but with a developed 5 meters measuring distance. It is
+an advance technology that developed for preventing the virus cross infection. The device is
+using uncooled infrared thermal sensor between 36.5c to 42.0c
+
+CV2020 is safe and efficient, because of its unique way of detecting temperature without
+physical touch. It is lightweight and comfortable to wear and comes in variety and color. The
+temperature can be detected very fast in 10 milliseconds.
+
+The glasses lenses are designed for prolong wearing with a switch to reduce the
+discomfort from your eyes. You can switch the lenses by touching the lenses with your clean
+finger. It works like touchscreen mobile phone. You can even choose between prescription
+glasses or sunglasses.
+
+The battery operate is chargeable through type C USB cable connect; DC 5V, 2A; Recharge in
+1 hour and can be use up to 5 hours once fully charged. Solar charger is sold separately.
+With a genius sensor the glasses turn on and activated as soon as you put it on.
+This thermometer detector can be connected to your smart phone or smart watch to track
+how many people with fever in that area you are in. To minimise the risk of contracting the
+virus. Moreover, these are including some unique features, such
+as, weather forecast, and reminder, and messages once connect to smart phone or smart-watch.
+
+The three layers lenses that provide a shade protection from sunray UV when needed and
+genius bottom command switch on and off on the glasses left temple.
+This product come with 2 years warranty and free cleaning after 1 year of use.
+
+## Tools and Technologies
+
+CV2020 runs with chargeable battery and operate with PC software analysis.
+Using the infrared technology with a resolution of 16x120 and lenses resolution is
+400x250 with power consumption less than 500mW5
+
+Using 5.2 Bluetooth compatibility. The glass frame is made of pine wood which water and
+dust resistant and environmentally friendly. CV2020 is using an infrared thermometer or a
+none contact laser thermometer that provide an accurate information.
+
+## Skills Required
+
+• Glasses terminology knowledge
+• Pine wood and how to assemble
+• Graphic design
+• PC software analysis
+• Bluetooth installation
+• Infared installation
+
+The skills, hardware, and software above are possible to find and can adapt from the
+general glasses. The pine wood and how to assemble can obtain it from a go
+green glasses' factory in Southeast Asia. As CV2020 is modified from hand-held
+thermomotor, the feasible of how to find a software and skills to make this CV2020 is
+highly possible.
+
+
+## Outcome
+
+If the project is successful, the virus spread will decrease, and less people will be
+contracting and hopefully everything will come back to normal. This project will save life and
+possibility to meliorate the product to be more advance, such as, use for detecting
+the cancer, HIV, heart failure and so on.
+The con this project might have is, people, some human being might use it for a bad
+intension and for a criminal purpose, such as, use the glasses to detect of someone in the
+car to steal the car, steal glasses and check the store data that link to smart phone or smart
+watch etc.
+
+## References
+
+Australian Government Department of health 2020, Coronavirus (covid-19) health alert,
+Commonwealth of Australia, viewed 14 December 2020,
+<https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-healthalert?
+gclid=CjwKCAiArIH_BRB2EiwALfbH1BjWqvxBHqxe7D2le5CsRK2hl_4jQjPjhWSy6MokJ4H0kdsd3TWrBoCZm4QAvD_
+BwE>
+
+Instructables workshop 2020, Techniques for Making Wooden Glasses DIY, Autodesk Inc,
+viewed 20 December 2020, < https://www.instructables.com/Techniques-for-Making-
+Wooden-Glasses-DIY/>
