@@ -247,4 +247,4 @@ Commonwealth of Australia, viewed 14 December 2020,
 <https://www.health.gov.au/news/health-alerts/COVID_19J4H0kdsd3TWrBoCZm4QAvD_BwE>
 
 Instructables workshop 2020, ***Techniques for Making Wooden Glasses DIY***, Autodesk Inc,
-viewed 20 December 2020, <https://www.instructables.com/Glasse/>
+viewed 20 December 2020, <https://www.instructables.com/Techniques-for-Making-Wooden-Glasses-DIY/>
