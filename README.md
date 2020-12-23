@@ -236,10 +236,10 @@ watch etc.
 
 ## References
 
-Australian Government Department of health 2020, Coronavirus (covid-19) health alert,
-Commonwealth of Australia, viewed 14 December 2020,
+Australian Government Department of health 2020, ***Coronavirus (covid-19) health alert,
+Commonwealth of Australia***, viewed 14 December 2020,
 <https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-healthalertgclid=CjwKCAiArIH_BRB2EiwALfbH1BjWqvxBHqxe7D2le5CsRK2hl_4jQjPjhWSy6MokJ4H0kdsd3TWrBoCZm4QAvD_
 BwE>
 
-Instructables workshop 2020, Techniques for Making Wooden Glasses DIY, Autodesk Inc,
-viewed 20 December 2020, < https://www.instructables.com/Techniques-for-Making-Wooden-Glasses-DIY/>
+Instructables workshop 2020, ***Techniques for Making Wooden Glasses DIY, Autodesk Inc,
+viewed 20 December 2020***, < https://www.instructables.com/Techniques-for-Making-Wooden-Glasses-DIY/>
