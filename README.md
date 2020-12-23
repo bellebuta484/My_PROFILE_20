@@ -91,39 +91,15 @@ doing some more research about it.
 
 
 # Personal Profile
-
-* The results of an online Myers-Briggs test. www.16personalities.com
+ 
+###The results of an online Myers-Briggs test. www.16personalities.com
 ![](images/result16.jpg)
 
-
-
-
-
-
-
-
-
-* The results of an online learning style test
+###The results of an online learning style test
 ![](images/resultleraningstyle.jpg)
 
-
-
-
-
-
-
-
-* The results of one further online test of your choosing
+###The results of one further online test of your choosing
 ![](images/resultfinal.jpg)
-
-
-
-
-
-
-
-
-
 
 
 
@@ -262,10 +238,8 @@ watch etc.
 
 Australian Government Department of health 2020, Coronavirus (covid-19) health alert,
 Commonwealth of Australia, viewed 14 December 2020,
-<https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-healthalert?
-gclid=CjwKCAiArIH_BRB2EiwALfbH1BjWqvxBHqxe7D2le5CsRK2hl_4jQjPjhWSy6MokJ4H0kdsd3TWrBoCZm4QAvD_
+<https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-healthalertgclid=CjwKCAiArIH_BRB2EiwALfbH1BjWqvxBHqxe7D2le5CsRK2hl_4jQjPjhWSy6MokJ4H0kdsd3TWrBoCZm4QAvD_
 BwE>
 
 Instructables workshop 2020, Techniques for Making Wooden Glasses DIY, Autodesk Inc,
-viewed 20 December 2020, < https://www.instructables.com/Techniques-for-Making-
-Wooden-Glasses-DIY/>
+viewed 20 December 2020, < https://www.instructables.com/Techniques-for-Making-Wooden-Glasses-DIY/>
