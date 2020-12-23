@@ -3,9 +3,8 @@
 ![](images/130606606_149700560237060_5395666262571205922_n.jpg)
 
 
-My name is Phimonrat Panaphong and my nickname is Belle,
-s3885709, s3885709@student.rmit.edu.au. I am originally from Bangkok, Thailand and live
-in Sydney, Australia. I am 37-year-old, and I am Buddhism. I graduated Bachelor's degree in
+My name is Phimonrat Panaphong and my nickname is Belle, I am originally from Bangkok, Thailand,
+who currently lives in Sydney, Australia. I am 37-year-old, and I am Buddhism. I graduated Bachelor's degree in
 international business management from Thailand and had completed Diploma of Business
 Management in Sydney. I speak Thai, English and Spanish (fairly). I enjoy cooking, baking,
 listening to music, watching Korean drama, and re-arranging and organising wardrobe. I
