@@ -13,7 +13,7 @@ am Sagittarius and I am fair-minded, optimistic, hilarious, spontaneous, and hon
 
 I'm married with Ecuadorian-Australian father role-model. We have two gorgeous girls. 
 They are 3 and 5 year old. My current goal is finishing Bachelor of IT and building 
-my IT career and try my best to be the best mom, student and wife. <"_"> 
+my IT career and try my best to be the best mom, student and wife. <:smile:>
 
 
 # Interest in IT
