@@ -52,10 +52,9 @@ before the assignment deadline).
 
 [Link Seek.com.au]  (https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1)
 
-![Image] (/Users/hugoacuna/Downloads/130606606_149700560237060_5395666262571205922_n.jpg)
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="auR1eNFA"></script>
+![](images/job1.jpg)
+![](images/job2.jpg)
+![](images/job3.jpg)
 
 * A description (in your own words) of the position, and particularly what makes this
 position appealing to you.
