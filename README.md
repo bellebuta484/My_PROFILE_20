@@ -57,3 +57,41 @@ before the assignment deadline).
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="auR1eNFA"></script>
 
+* A description (in your own words) of the position, and particularly what makes this
+position appealing to you.
+
+This position appealing to me because I am familiar with Business Management and
+proficient in Microsoft excel. The possibility that I will get promoted to Senior System
+Analyst. Furthermore, the role that advertised need someone who can perform application
+and system support. That make it remarkably interesting to work there and the job seems
+challenging.
+
+
+* A description (in your own words) of the skills, qualifications and experience required for
+the position.
+
+This job requires managing, planning, analytical and technical knowledge skill. Having
+experiences in System Support, Microsoft Excel, ERP and SQL scripts.
+
+
+* A description (in your own words) of the skills, qualifications and experience you currently have.
+
+I have a management, organizing and planning skills. I have a Business Management Degree
+and 4 years’ experience as a secretary and 6 years’ experience as a casual Personal
+Assistant. Proficiently in Microsoft office and rapid learner. I am resilient, spontaneous, and ambitious.
+
+
+* A plan describing how you will obtain the skills, qualifications and experience required for
+the position, building on those you have now. This need not be detailed, (and will probably
+change significantly over time anyway) but try to be as specific as you can.
+
+Firstly, I need to do some research and understand about the company (Perigon group Pty
+Limited) products. Secondly, I need to learn how to operate the ERP (Enterprise Resource
+Planning) and SQL scripts software. Lastly, I need to keep practicing System Support and
+doing some more research about it.
+
+
+# Personal Profile
+
+* The results of an online Myers-Briggs test. www.16personalities.com
+
