@@ -50,7 +50,7 @@ programming would be a great benefit to the future career as well.
 The job advertisement itself. Include a link, and a snapshot of it (in case the link expires
 before the assignment deadline).
 
-(https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1)
+<https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1>
 
 ![](images/job1.jpg)
 ![](images/job2.jpg)
@@ -247,4 +247,4 @@ Commonwealth of Australia, viewed 14 December 2020,
 <https://www.health.gov.au/news/health-alerts/COVID_19J4H0kdsd3TWrBoCZm4QAvD_BwE>
 
 Instructables workshop 2020, ***Techniques for Making Wooden Glasses DIY***, Autodesk Inc,
-viewed 20 December 2020, < https://www.instructables.com/Techniques-for-Making-Wooden-Glasses-DIY/>
+viewed 20 December 2020, < https://www.instructables.com/>
