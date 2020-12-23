@@ -8,12 +8,17 @@ Management in Sydney. I speak Thai, English and Spanish (fairly). I enjoy cookin
 listening to music, watching Korean drama, and re-arranging and organising wardrobe. I
 am Sagittarius and I am fair-minded, optimistic, hilarious, spontaneous, and honest.
 
+I'm married with Ecuadorian-Australian father role-modle and have two gorgeous girls. 
+They are 3 and 5 year old. My current goal is finishing Bachelor of IT and building 
+my IT career and try my best to be the best mom, student and wife. :grin: 
+
+
 # Interest in IT
 
-* What is your interest in IT? When did your interest in IT start?
+* What is your interest in IT? When did your interest in IT start? 
+Was there a particular event or person that sparked your interest? 
+Outline your ITexperience
 
-Was there a particular event or person that sparked your interest? Outline your IT
-experience
 During the lock down, my husband got an identification stolen. He could not access to his
 emails and could not use his phone. We found out later that someone in Tasmania
 requested for his phone SIM card replacement. That moment I thought if I have a good
@@ -21,11 +26,13 @@ knowledge about IT or at least know how the hacker penetrates. My husband would 
 experience the challenging time and terrified that someone will steal our finance or commit
 a fraud under his identity.
 
+
 * Why did you choose to come to RMIT?
 
 According to the story above, I started to look for a good options and flexible courses. I
 found RMIT through Open University and when I found out that RMIT offer a 100%
 online bachelor's degree in IT. I cannot let go of this opportunity and here I am :smile: 
+
 
 * What do you expect to learn during your studies?
 
@@ -33,6 +40,7 @@ As you know that I am a new learner in IT and I do have little knowledge about t
 am expecting to learn more about creating website and comprehensive the functionality of
 hardware and software including cloud storage. Learning more about coding and
 programming would be a great benefit to the future career as well.
+
 
 # Ideal Job
 
