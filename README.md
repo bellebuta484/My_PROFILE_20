@@ -50,7 +50,7 @@ programming would be a great benefit to the future career as well.
 The job advertisement itself. Include a link, and a snapshot of it (in case the link expires
 before the assignment deadline).
 
-[Github] (https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1)
+(https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1)
 
 ![](images/job1.jpg)
 ![](images/job2.jpg)
@@ -92,13 +92,13 @@ doing some more research about it.
 
 # Personal Profile
  
-###The results of an online Myers-Briggs test. www.16personalities.com
+### The results of an online Myers-Briggs test. www.16personalities.com
 ![](images/result16.jpg)
 
-###The results of an online learning style test
+### The results of an online learning style test
 ![](images/resultleraningstyle.jpg)
 
-###The results of one further online test of your choosing
+### The results of one further online test of your choosing
 ![](images/resultfinal.jpg)
 
 
