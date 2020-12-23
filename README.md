@@ -125,3 +125,66 @@ doing some more research about it.
 
 
 
+
+
+In addition to the results themselves, you should answer each of the questions below with
+one paragraph.
+
+* What do the results of these tests mean for you?
+
+These results are aiding me in achieving a better learning outcome. I never knew before that
+I could be an Auditory who is better at listening than reading material. I will use the
+guideline above to help me get through this degree J Furthermore, the 1 result has giving
+me a not positive outcome. I need to control myself in judging others and try to push myself
+more.
+
+* How do you think these results may influence your behavior in a team?
+
+The test results 1 and 3 are showing me that I could be give a good suggestion
+and provide creative ideas toward group assignment. However, I need to work the
+collaborative with others to improve the innovative ideas.
+
+
+* How should you take this into account when forming team?
+
+The test results will help in a team forming by indicating an individual skill and talent. The
+team goal then generally clear to members, initial questions and concerns are addressed,
+and initial role assignments may develop.
+
+
+# Project Idea
+
+
+
+
+
+## Overview
+
+An eyewear is essential item for those who has visual problems but if we could make
+eyewear for medical use. What will it be for? Will it be for x-ray and detect the small lung
+cancer? Or will it be a weaponize glasses that work like 007.
+I’d like to introduce the body temperature detecting glasses to be called CV2020. These
+glasses made to detect the human body temperature from 36.5c to 42.0c. This is hoping to
+help minimise the risk of contracting novel virus called SARS-CoV-2 or Covid-19 and increase
+the awareness in our community.
+
+This eyewear is made of 100% natural pinewood, recycle material and environment friendly.
+It comes in variety of styles and colors.
+
+## Motivation
+
+In early of 2020, the novel virus called Covid 19 was introduced to us by a surprise. The
+pandemic started late 2019 and keep continuing until now. The virus has spread around the
+world, killing at least 1.6 million people, including more than 300,000 in the United
+State and around 1,000 in Australia.
+
+The virus transmission is through the close contact including hug, kiss, touch and
+respiratory. The main symptoms are fever, short of breath, sore throat, and coughing with
+an incubation period of 4 – 7 days, with a range of 1 – 14 days. Most people who are
+infected will develop symptoms within 14 days of infection.
+
+All the scientists are looking for a vaccination to cure this virus but it’s undergoing and in a
+trial period. This time being we need to look after ourselves by keeping our
+hands hygiene and eating healthy. Moreover, wearing the genius CV2020 will
+help notifying when you are in a close contact with someone who has fever of 37.4c or
+more. This will minimise the risk of contracting virus.
