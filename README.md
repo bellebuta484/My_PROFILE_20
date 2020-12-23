@@ -13,7 +13,7 @@ am Sagittarius and I am fair-minded, optimistic, hilarious, spontaneous, and hon
 
 I'm married with Ecuadorian-Australian father role-model. We have two gorgeous girls. 
 They are 3 and 5 year old. My current goal is finishing Bachelor of IT and building 
-my IT career and try my best to be the best mom, student and wife. :grin: 
+my IT career and try my best to be the best mom, student and wife. <"_"> 
 
 
 # Interest in IT
@@ -34,7 +34,7 @@ a fraud under his identity.
 
 According to the story above, I started to look for a good options and flexible courses. I
 found RMIT through Open University and when I found out that RMIT offer a 100%
-online bachelor's degree in IT. I cannot let go of this opportunity and here I am :smile: 
+online bachelor's degree in IT. I cannot let go of this opportunity and here I am <'U'> 
 
 
 * What do you expect to learn during your studies?
@@ -247,4 +247,4 @@ Commonwealth of Australia, viewed 14 December 2020,
 <https://www.health.gov.au/news/health-alerts/COVID_19J4H0kdsd3TWrBoCZm4QAvD_BwE>
 
 Instructables workshop 2020, ***Techniques for Making Wooden Glasses DIY***, Autodesk Inc,
-viewed 20 December 2020, < https://www.instructables.com/>
+viewed 20 December 2020, < https://www.instructables.com>
