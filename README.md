@@ -2,13 +2,13 @@
 
 My name is Phimonrat Panaphong and my nickname is Belle,
 s3885709, s3885709@student.rmit.edu.au. I am originally from Bangkok, Thailand and live
-in Sydney, Australia. I am 37-year-old, and I am Buddhism. I graduated bachelor's degree in
+in Sydney, Australia. I am 37-year-old, and I am Buddhism. I graduated Bachelor's degree in
 international business management from Thailand and had completed Diploma of Business
 Management in Sydney. I speak Thai, English and Spanish (fairly). I enjoy cooking, baking,
 listening to music, watching Korean drama, and re-arranging and organising wardrobe. I
 am Sagittarius and I am fair-minded, optimistic, hilarious, spontaneous, and honest.
 
-I'm married with Ecuadorian-Australian father role-modle and have two gorgeous girls. 
+I'm married with Ecuadorian-Australian father role-model. We have two gorgeous girls. 
 They are 3 and 5 year old. My current goal is finishing Bachelor of IT and building 
 my IT career and try my best to be the best mom, student and wife. :grin: 
 
