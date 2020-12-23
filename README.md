@@ -33,3 +33,13 @@ As you know that I am a new learner in IT and I do have little knowledge about t
 am expecting to learn more about creating website and comprehensive the functionality of
 hardware and software including cloud storage. Learning more about coding and
 programming would be a great benefit to the future career as well.
+
+# Ideal Job
+
+• The job advertisement itself. Include a link, and a snapshot of it (in case the link expires
+before the assignment deadline).
+
+https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-
+6c32-4faa-bbc3-8b41204090d1
+
+
