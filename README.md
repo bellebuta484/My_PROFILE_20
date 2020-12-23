@@ -51,4 +51,6 @@ before the assignment deadline).
 
 ![Image] (/Users/hugoacuna/Downloads/130606606_149700560237060_5395666262571205922_n.jpg)
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="auR1eNFA"></script>
 
