@@ -238,6 +238,8 @@ intension and for a criminal purpose, such as, use the glasses to detect of some
 car to steal the car, steal glasses and check the store data that link to smart phone or smart
 watch etc.
 
+![](images/Mask18.png)
+
 ## References
 
 Australian Government Department of health 2020, ***Coronavirus (covid-19) health alert,
