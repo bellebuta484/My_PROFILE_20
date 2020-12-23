@@ -25,7 +25,7 @@ a fraud under his identity.
 
 According to the story above, I started to look for a good options and flexible courses. I
 found RMIT through Open University and when I found out that RMIT offer a 100%
-online bachelor's degree in IT. I cannot let go of this opportunity and here I am!
+online bachelor's degree in IT. I cannot let go of this opportunity and here I am :smile: 
 
 3. What do you expect to learn during your studies?
 
@@ -39,7 +39,7 @@ programming would be a great benefit to the future career as well.
 • The job advertisement itself. Include a link, and a snapshot of it (in case the link expires
 before the assignment deadline).
 
-Link (https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1)
+Link Seek.com.au (https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1)
 
 Image (/Users/hugoacuna/Downloads/130606606_149700560237060_5395666262571205922_n.jpg)
 
