@@ -10,7 +10,7 @@ am Sagittarius and I am fair-minded, optimistic, hilarious, spontaneous, and hon
 
 # Interest in IT
 
-1. What is your interest in IT? When did your interest in IT start?
+* What is your interest in IT? When did your interest in IT start?
 
 Was there a particular event or person that sparked your interest? Outline your IT
 experience
@@ -21,13 +21,13 @@ knowledge about IT or at least know how the hacker penetrates. My husband would 
 experience the challenging time and terrified that someone will steal our finance or commit
 a fraud under his identity.
 
-2. Why did you choose to come to RMIT?
+* Why did you choose to come to RMIT?
 
 According to the story above, I started to look for a good options and flexible courses. I
 found RMIT through Open University and when I found out that RMIT offer a 100%
 online bachelor's degree in IT. I cannot let go of this opportunity and here I am :smile: 
 
-3. What do you expect to learn during your studies?
+* What do you expect to learn during your studies?
 
 As you know that I am a new learner in IT and I do have little knowledge about technology. I
 am expecting to learn more about creating website and comprehensive the functionality of
@@ -36,7 +36,7 @@ programming would be a great benefit to the future career as well.
 
 # Ideal Job
 
-• The job advertisement itself. Include a link, and a snapshot of it (in case the link expires
+The job advertisement itself. Include a link, and a snapshot of it (in case the link expires
 before the assignment deadline).
 
 [Link Seek.com.au]  (https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1)
