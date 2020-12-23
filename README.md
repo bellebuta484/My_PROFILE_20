@@ -93,4 +93,10 @@ doing some more research about it.
 # Personal Profile
 
 * The results of an online Myers-Briggs test. www.16personalities.com
+![](images/result16.jpg)
 
+* The results of an online learning style test
+![](images/resultlearningstyle.jpg)
+
+* The results of one further online test of your choosing
+![](images/resultfinal.jpg)
