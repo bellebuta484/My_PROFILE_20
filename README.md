@@ -97,10 +97,31 @@ doing some more research about it.
 
 
 
+
+
+
+
+
+
 * The results of an online learning style test
 ![](images/resultleraningstyle.jpg)
 
 
 
+
+
+
+
+
 * The results of one further online test of your choosing
 ![](images/resultfinal.jpg)
+
+
+
+
+
+
+
+
+
+
