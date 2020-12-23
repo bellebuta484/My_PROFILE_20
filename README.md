@@ -49,7 +49,7 @@ programming would be a great benefit to the future career as well.
 The job advertisement itself. Include a link, and a snapshot of it (in case the link expires
 before the assignment deadline).
 
-<https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1>
+[Click here for job link <https://www.seek.com.au/job/51091574?type=standard#searchRequestToken=ffefc628-6c32-4faa-bbc3-8b41204090d1>]
 
 ![](images/job1.jpg)
 ![](images/job2.jpg)
