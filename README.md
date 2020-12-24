@@ -229,7 +229,7 @@ highly possible.
 
 ## Outcome
 
-    If the project is successful, the virus spread will decrease, and less people will be
+   If the project is successful, the virus spread will decrease, and less people will be
 contracting and hopefully everything will come back to normal. This project will save life and
 possibility to meliorate the product to be more advance, such as, use for detecting
 the cancer, HIV, heart failure and so on.
