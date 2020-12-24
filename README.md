@@ -15,6 +15,8 @@ They are 3 and 5 year old. My current goal is finishing Bachelor of IT and build
 my IT career and try my best to be the best mom, student and wife.
 
 
+
+
 # Interest in IT
 
 * What is your interest in IT? When did your interest in IT start? 
@@ -42,6 +44,8 @@ online bachelor's degree in IT. I cannot let go of this opportunity and here I a
 am expecting to learn more about creating website and comprehensive the functionality of
 hardware and software including cloud storage. Learning more about coding and
 programming would be a great benefit to the future career as well.
+
+
 
 
 # Ideal Job
@@ -88,6 +92,8 @@ change significantly over time anyway) but try to be as specific as you can.
 Limited) products. Secondly, I need to learn how to operate the ERP (Enterprise Resource
 Planning) and SQL scripts software. Lastly, I need to keep practicing System Support and
 doing some more research about it.
+
+
 
 
 # Personal Profile
