@@ -3,17 +3,16 @@
 ![](images/130606606_149700560237060_5395666262571205922_n.jpg)
 
 
-   My name is Phimonrat Panaphong and my nickname is Belle, I am originally from Bangkok, Thailand,
-who currently lives in Sydney, Australia. I am 37-year-old, and I am Buddhism. I graduated Bachelor's degree in
-international business management from Thailand and had completed Diploma of Business
-Management in Sydney. I speak Thai, English and Spanish (fairly). I enjoy cooking, baking,
-listening to music, watching Korean drama, and re-arranging and organising wardrobe. I
-am Sagittarius and I am fair-minded, optimistic, hilarious, spontaneous, and honest.
+  My name is Phimonrat Panaphong, and my nickname is Belle, I am originally from Bangkok, Thailand, 
+who currently lives in Sydney, Australia. I am 37-year-old, and I am Buddhism. I graduated 
+Bachelor's degree in international business management from Thailand and had completed a Diploma of 
+Business Management in Sydney. I speak Thai, English and Spanish (relatively). I enjoy cooking, baking, 
+listening to music, watching Korean drama, and re-arranging and organising wardrobe. I am Sagittarius, 
+and I am fair-minded, optimistic, hilarious, spontaneous, and honest.
 
-   I'm married with Ecuadorian-Australian father role-model. We have two gorgeous girls. 
-They are 3 and 5 year old. My current goal is finishing Bachelor of IT and building 
-my IT career and try my best to be the best mom, student and wife.
-
+   I'm married to Ecuadorian-Australian, who brings laughter to the family. We have two gorgeous girls. 
+They are 3 and 5 year old. My current goal is to finish a Bachelor of IT and build my IT career and at 
+the same time try my best to be the mom, student and wife.
 
 
 
